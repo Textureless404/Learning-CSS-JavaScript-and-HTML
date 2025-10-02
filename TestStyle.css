@@ -1,0 +1,56 @@
+@import url("https:://db.onlinewebfonts.com/c/7cc6719bd5f03150ba33418e72e?family=Comic+Sans+MS");
+
+body
+{
+    max-width: 800px;
+    margin:0 auto;
+    padding: 10px;
+}
+
+p 
+{
+    color: rebeccapurple;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    margin:10px;
+}
+h1
+{
+    color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+}
+h2
+{
+    color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    margin:10px;
+}
+ul
+{
+    color: rebeccapurple;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    margin:10px
+}
+small
+{
+    color: grey;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+}
+small.weirdplacementfix
+{
+    color: white;
+    font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
+    margin:10px;
+}
+
+button
+{
+    background-color: blueviolet;
+    border: none;
+    color:white;
+    padding: 5px 10px;
+    cursor: help;
+}
+image
+{
+    margin:10px;
+}
